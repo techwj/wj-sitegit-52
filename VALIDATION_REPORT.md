@@ -1,0 +1,88 @@
+# Validation Report - hostel-money-saving-guide
+
+Generated: 2026-06-02T15:50:23.032321
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Hostel Money Saving Guide
+- ✓ Article word count OK: Beginner Hostel Money Saving Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Hostel Money Saving Guide
+- ✓ Article word count OK: Beginner Hostel Money Saving Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Hostel Money Saving Guide
+- ✓ Article word count OK: Beginner Hostel Money Saving Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Hostel Money Saving Guide
+- ✓ Article word count OK: Common Mistakes in Beginner Hostel Money Saving Guide
+- ✓ Article word count OK: Beginner Hostel Money Saving Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner Hostel Money Saving Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Hostel Money Saving Guide
+- ✓ Article word count OK: Advanced Hostel Money Saving Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Hostel Money Saving Guide
+- ✓ Article word count OK: Advanced Hostel Money Saving Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Hostel Money Saving Guide
+- ✓ Article word count OK: Advanced Hostel Money Saving Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Hostel Money Saving Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Hostel Money Saving Guide
+- ✓ Article word count OK: Advanced Hostel Money Saving Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced Hostel Money Saving Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Hostel Money Saving Guide Tips
+- ✓ Article word count OK: Hostel Money Saving Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Hostel Money Saving Guide Tips
+- ✓ Article word count OK: Hostel Money Saving Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Hostel Money Saving Guide Tips
+- ✓ Article word count OK: Hostel Money Saving Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Hostel Money Saving Guide Tips
+- ✓ Article word count OK: Common Mistakes in Hostel Money Saving Guide Tips
+- ✓ Article word count OK: Hostel Money Saving Guide Tips for Beginners
+- ✓ Article word count OK: Advanced Hostel Money Saving Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Hostel Money Saving Guide History
+- ✓ Article word count OK: Hostel Money Saving Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Hostel Money Saving Guide History
+- ✓ Article word count OK: Hostel Money Saving Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of Hostel Money Saving Guide History
+- ✓ Article word count OK: Hostel Money Saving Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of Hostel Money Saving Guide History
+- ✓ Article word count OK: Common Mistakes in Hostel Money Saving Guide History
+- ✓ Article word count OK: Hostel Money Saving Guide History for Beginners
+- ✓ Article word count OK: Advanced Hostel Money Saving Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Hostel Money Saving Guide
+- ✓ Article word count OK: Trending Hostel Money Saving Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Hostel Money Saving Guide
+- ✓ Article word count OK: Trending Hostel Money Saving Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Hostel Money Saving Guide
+- ✓ Article word count OK: Trending Hostel Money Saving Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Hostel Money Saving Guide
+- ✓ Article word count OK: Common Mistakes in Trending Hostel Money Saving Guide
+- ✓ Article word count OK: Trending Hostel Money Saving Guide for Beginners
+- ✓ Article word count OK: Advanced Trending Hostel Money Saving Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Hostel Money Saving Guide Tutorials
+- ✓ Article word count OK: Hostel Money Saving Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Hostel Money Saving Guide Tutorials
+- ✓ Article word count OK: Hostel Money Saving Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Hostel Money Saving Guide Tutorials
+- ✓ Article word count OK: Hostel Money Saving Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Hostel Money Saving Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in Hostel Money Saving Guide Tutorials
+- ✓ Article word count OK: Hostel Money Saving Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced Hostel Money Saving Guide Tutorials Techniques
+- ✓ Ad configuration validated

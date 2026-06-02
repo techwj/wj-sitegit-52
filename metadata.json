@@ -1,0 +1,59 @@
+{
+  "siteId": "hostel-money-saving-guide",
+  "generatedAt": "2026-06-02T15:50:23.032487",
+  "categories": [
+    "beginner-hostel-money-saving-guide",
+    "advanced-hostel-money-saving-guide",
+    "tips-hostel-money-saving-guide",
+    "history-hostel-money-saving-guide",
+    "trending-hostel-money-saving-guide",
+    "tutorials-hostel-money-saving-guide"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-hostel-money-saving-guide",
+      "category_name": "Beginner Hostel Money Saving Guide"
+    },
+    {
+      "category_slug": "advanced-hostel-money-saving-guide",
+      "category_name": "Advanced Hostel Money Saving Guide"
+    },
+    {
+      "category_slug": "tips-hostel-money-saving-guide",
+      "category_name": "Hostel Money Saving Guide Tips"
+    },
+    {
+      "category_slug": "history-hostel-money-saving-guide",
+      "category_name": "Hostel Money Saving Guide History"
+    },
+    {
+      "category_slug": "trending-hostel-money-saving-guide",
+      "category_name": "Trending Hostel Money Saving Guide"
+    },
+    {
+      "category_slug": "tutorials-hostel-money-saving-guide",
+      "category_name": "Hostel Money Saving Guide Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "hostel-money-saving-guide",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Hostel Money Saving Guide Central",
+    "articles_per_row": 2
+  }
+}
